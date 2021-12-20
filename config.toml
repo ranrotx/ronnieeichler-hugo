@@ -35,6 +35,11 @@ description = "Senior Global Solutions Architect at AWS. <br/> All opinions are 
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
+## Mapbox settings
+[params.mapbox]
+accessToken = "pk.eyJ1IjoicmFucm90eCIsImEiOiJjamV2amNuMGQ3anRxMnhvNzZqZ3Z4Z2tyIn0.q2YunyyGpGQRvRs6JmEfiQ"
+style = "mapbox://styles/mapbox/light-v9"
+
 ## Site Meta Settings
 [params.meta]
 description = "Ronnie Eichler"
