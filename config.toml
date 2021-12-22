@@ -28,6 +28,9 @@ enableRobotsTXT = true
 [permalinks]
   posts = '/:title/'
 
+[taxonomies]
+  category = 'categories'
+
 [params]
 author = "Ronnie Eichler"
 intro = "Technology. Photography. Travel."
