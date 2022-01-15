@@ -61,7 +61,7 @@ email = "ronnie@ronnieeichler.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2021, Ronnie Eichler. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+copyright = "© 2022, Ronnie Eichler. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
 poweredby = false
 hightlightjs = true
 
