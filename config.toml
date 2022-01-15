@@ -64,6 +64,7 @@ email = "ronnie@ronnieeichler.com"
 copyright = "© 2022, Ronnie Eichler. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
 poweredby = false
 hightlightjs = true
+rss = true
 
 ## Main Menu
 [[menu.main]]
