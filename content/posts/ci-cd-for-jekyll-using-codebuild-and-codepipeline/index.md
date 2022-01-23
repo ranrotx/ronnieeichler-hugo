@@ -9,6 +9,7 @@ author_profile: true
 comments: true
 share: true
 featured: false
+url: "ci-cd-for-jekyll-using-codebuild-and-codepipeline"
 ---
 
 > Note: [Amplify Console](https://aws.amazon.com/amplify/console/) simplifies a lot of this and makes most of this redundant. I'm currently in the process of migrating this site from Jekyll to [Gatsby](https://www.gatsbyjs.org/) and will be using Amplify.
