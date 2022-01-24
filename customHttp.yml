@@ -1,5 +1,5 @@
 customHeaders:
-  - pattern: '*.json'
+  - pattern: '**/*.json'
     headers:
     - key: 'Access-Control-Allow-Origin'
       value: '*'
