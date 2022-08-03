@@ -17,7 +17,7 @@ header:
 ---
 A lot of people are probably familiar with the travel maps that people have on their wall. You know, the ones with push pins in all of the locations that they've visited? I decided to take this idea and make the modern-day equivalent for my website.
 
-{% include travels.html %}
+{{% travels %}}
 
 I always thought these kind of maps were cool. It was interesting when I'd come across these since it was inspiring seeing the types of places that my friends have visited. However, I never got around to creating one for myself. Now that I'm older, the question is more of what would I put on my travel map. I decided to focus on places where I've spent a meaningful amount of time (no, connecting airports or places I've driven though don't count).
 
