@@ -1905,6 +1905,19 @@
           38.707649321049416
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Chamonix, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.871433258056641,
+          45.92402047860041
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
