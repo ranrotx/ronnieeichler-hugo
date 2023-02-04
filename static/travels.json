@@ -1918,6 +1918,58 @@
           45.92402047860041
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Turks and Caicos"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.2658947011372,
+          21.785269384493077
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Niseko, Japan"
+      },
+      "geometry": {
+        "coordinates": [
+          140.69374727719446,
+          42.85181600019828
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Nagano, Japan"
+      },
+      "geometry": {
+        "coordinates": [
+          138.18773773799273,
+          36.66093526248031
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Hakuba, Japan"
+      },
+      "geometry": {
+        "coordinates": [
+          137.83867717464375,
+          36.70055784218698
+        ],
+        "type": "Point"
+      }
     }
   ],
   "type": "FeatureCollection"
