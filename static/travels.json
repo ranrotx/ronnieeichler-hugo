@@ -1970,6 +1970,32 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Valencia, Spain"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.37404838921526107,
+          39.46991536861577
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Mallorca, Spain"
+      },
+      "geometry": {
+        "coordinates": [
+          2.9658512989977055,
+          39.652674663302065
+        ],
+        "type": "Point"
+      }
     }
   ],
   "type": "FeatureCollection"
