@@ -10,7 +10,7 @@ title = "About"
 showpagemeta = false
 +++
 
-I'm a career IT Professional living in Dallas, Texas. Overall, I have a broad background in enterprise IT as well as cloud computing. Currently, I work as a Global Solutions Architect for [Amazon Web Services](http://aws.amazon.com/).
+I'm a career IT Professional living in Dallas, Texas. Overall, I have a broad background in enterprise IT as well as cloud computing. Currently, I work as a Solutions Architect Manager for [Amazon Web Services](http://aws.amazon.com/).
 
 I am passionate about all things technology. When I'm not working to help some of the worlds' largest customers migrate and manage workloads in the cloud, I also apply some of the same knowledge and principles to home IT management.
 
