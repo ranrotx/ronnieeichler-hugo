@@ -2022,6 +2022,19 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Seville, Spain"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.9932921725130655,
+          37.38758706385789
+        ],
+        "type": "Point"
+      }
     }
   ],
   "type": "FeatureCollection"
