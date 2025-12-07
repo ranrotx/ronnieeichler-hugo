@@ -2048,6 +2048,58 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Buenos Aires, Argentina"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.393413956713076,
+          -34.604072465389116
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "El Calafate, Argentina"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.26943464673342,
+          -50.33993840405058
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "El Chalten, Argentina"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.88596239289649,
+          -49.330188660462724
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Estancia Cristina, Argentina"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.13114623009979,
+          -49.96245895234617
+        ],
+        "type": "Point"
+      }
     }
   ],
   "type": "FeatureCollection"
