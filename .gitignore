@@ -1,7 +1,19 @@
+# macOS
 .DS_Store
 */**/.DS_Store
+
+# Editor
 *.swp
+*~
 
 # Hugo
 /public/
+/resources/_gen/
 .hugo_build.lock
+
+# Node
+node_modules/
+
+# Astro (leftover from migration)
+.astro/
+dist/

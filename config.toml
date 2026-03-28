@@ -77,3 +77,13 @@ rss = true
     identifier = "about"
     weight = 200
     url = "/about/"
+[[menu.main]]
+    name = "privacy"
+    identifier = "privacy"
+    weight = 300
+    url = "/privacy/"
+[[menu.main]]
+    name = "terms"
+    identifier = "terms"
+    weight = 400
+    url = "/terms/"
